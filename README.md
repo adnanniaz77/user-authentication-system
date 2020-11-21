@@ -1,4 +1,4 @@
-# ![sdf](https://img.icons8.com/fluent/32/000000/checked-identification-documents.png) User Authentication System
+# ![sdf](https://img.icons8.com/fluent/64/000000/checked-identification-documents.png) User Authentication System
 
 ## Objectives
 
